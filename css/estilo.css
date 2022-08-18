@@ -2,10 +2,18 @@
 
 body
 {
-    color: blue;
+    color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    cursor: pointer;
+
 }
 p{
     color: blueviolet;
+}
+#container{
+    width: 70%;
+    padding: 1cm;
+    margin: 0 auto;
+    border: 1px solid crimson;
 }
